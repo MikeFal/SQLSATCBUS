@@ -1,4 +1,4 @@
 function Hello-World{
 
-    Write-Output "hello world"
+    Write-Host "hello world"
 }
